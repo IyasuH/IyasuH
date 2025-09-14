@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Eyasu Hailegbriel</h1>
-<h3 align="center">A backend developer based in Ethiopia</h3>
+<h1 align="center">Hi 👋, I'm Eyasu Hailegebriel</h1>
+<h3 align="center">Currently software engineer based in Addis Aababa</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/iyasuh](https://github.com/iyasuh)
+- 👨‍💻 All of my projects are available at [iyasu.dev](https://www.iyasu.dev/)
 
-- 📫 How to reach me **eyasuhailegbr@gmail.com**
+- 📫 How to reach me **contact@iyasu.dev** **eyasuhailegbr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
